@@ -1,5 +1,6 @@
 chromedriver.exe
 linkedin_jobs.csv
+bar.png
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
